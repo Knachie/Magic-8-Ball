@@ -4,12 +4,31 @@
     {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                Console.WriteLine(Answer());
-            }
+            
         }
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         static string Answer()
         {
             string result = string.Empty;
